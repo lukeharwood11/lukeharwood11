@@ -10,9 +10,9 @@ Kotlin | Python | Java | Rust | C/C++
 # Project Plan
 
 ## Winter 2022
-- [ ] pysimulate release 1.0
-- [ ] Q-Learning Agent for pysimulate
-- [ ] Genetic Algorithm agent for pysimulate
-- [ ] AI snake (Q-Learning)
+- [x] pysimulate release 1.0
+- [x] Q-Learning Agent for pysimulate
+- [x] Genetic Algorithm agent for pysimulate
+- [x] AI snake (Q-Learning)
 - [ ] AI flappy bird (Genetic Algorithm)
 - [ ] AI flappy bird (in javascript for website)
