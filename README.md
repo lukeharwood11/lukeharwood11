@@ -5,3 +5,14 @@
 - I'm a software development intern at NeoSoft medical
 
 Kotlin | Python | Java | Rust | C/C++
+
+
+# Project Plan
+
+## Winter 2022
+- [ ] pysimulate release 1.0
+- [ ] Q-Learning Agent for pysimulate
+- [ ] Genetic Algorithm agent for pysimulate
+- [ ] AI snake (Q-Learning)
+- [ ] AI flappy bird (Genetic Algorithm)
+- [ ] AI flappy bird (in javascript for website)
