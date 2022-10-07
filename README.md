@@ -14,5 +14,5 @@ Kotlin | Python | Java | Rust | C/C++
 - [x] Q-Learning Agent for pysimulate
 - [x] Genetic Algorithm agent for pysimulate
 - [x] AI snake (Q-Learning)
-- [ ] AI flappy bird (Genetic Algorithm)
+- [x] AI flappy bird (Genetic Algorithm)
 - [ ] AI flappy bird (in javascript for website)
