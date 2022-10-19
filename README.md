@@ -4,7 +4,7 @@
 - 📫 How to reach me ... lukeharwood11@gmail.com | mwstudiodev@gmail.com | harwoodl@msoe.edu
 - I'm a software development intern at NeoSoft medical
 
-Kotlin | Python | Java | Rust | C/C++
+Kotlin | Python | Java | Rust | C/C++ | React.js | Node.js
 
 
 # Project Plan
