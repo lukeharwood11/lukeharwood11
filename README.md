@@ -12,11 +12,12 @@ Kotlin | Python | Java | Rust | C/C++ | React.js | Node.js
 ## Current Project
 [CourseWright](https://github.com/lukeharwood11/course-wright)
 
-## Winter 2022
+## Winter 2022/23
 - [x] pysimulate release 1.0
 - [x] Q-Learning Agent for pysimulate
 - [x] Genetic Algorithm agent for pysimulate
 - [x] AI snake (Q-Learning)
 - [x] AI flappy bird (Genetic Algorithm)
-- [ ] CourseWright website demo (December 25th)
-- [ ] CourseWright server demo (December 25th)
+- [ ] CourseWright website demo (on hold)
+- [ ] CourseWright server demo (on hold)
+- [ ] Rusty Wumpus Game
