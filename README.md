@@ -18,6 +18,6 @@ Kotlin | Python | Java | Rust | C/C++ | React.js | Node.js
 - [x] Genetic Algorithm agent for pysimulate
 - [x] AI snake (Q-Learning)
 - [x] AI flappy bird (Genetic Algorithm)
-- [ ] Rusty Wumpus Game
+- [ ] Rusty CLI Game
 - [ ] CourseWright website demo (on hold)
 - [ ] CourseWright server demo (on hold)
