@@ -4,7 +4,7 @@
 - 📫 How to reach me ... lukeharwood11@gmail.com | mwstudiodev@gmail.com | harwoodl@msoe.edu
 - I'm a Data Science Intern at Direct Supply
 
-Kotlin | Python | Java | Rust | C/C++ | React.js | Node.js
+Python | Rust | React.js | Node.js | Java | C/C++ | Kotlin
 
 
 # Project Plan
@@ -12,7 +12,7 @@ Kotlin | Python | Java | Rust | C/C++ | React.js | Node.js
 ## Current Project
 [CourseWright](https://github.com/lukeharwood11/course-wright)
 
-## Winter 2022/23
+### Winter 2022/23
 - [x] pysimulate release 1.0
 - [x] Q-Learning Agent for pysimulate
 - [x] Genetic Algorithm agent for pysimulate
