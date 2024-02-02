@@ -18,6 +18,7 @@ Python | Rust | React.js | Node.js | Java | C/C++ | Kotlin
 - [x] Genetic Algorithm agent for pysimulate
 - [x] AI snake (Q-Learning)
 - [x] AI flappy bird (Genetic Algorithm)
-- [ ] Rusty CLI Game
-- [ ] CourseWright website demo (on hold)
-- [ ] CourseWright server demo (on hold)
+
+### Spring 2024
+- [x] [Portfolio Website](https://terminal.lukeharwood.dev) (as a Linux Terminal)
+- [ ] [Normal Portfolio](https://lukeharwood.dev) Rewrite
