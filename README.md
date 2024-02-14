@@ -4,7 +4,7 @@
 - 📫 How to reach me ... lukeharwood11@gmail.com | mwstudiodev@gmail.com | harwoodl@msoe.edu
 - I'm a Data Science Intern at Direct Supply
 
-Python | Rust | React.js | Node.js | Java | C/C++ | Kotlin
+Python 🐍| Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
 
 
 # Project Plan
