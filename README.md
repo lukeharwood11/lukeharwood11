@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lukeharwood11
-- 👀 I’m interested in ... Machine learning, AI and data science, along with generic software development
-- 🌱 I’m currently learning ... machine learning and AI systems (Computer Science Major at MSOE)
-- 📫 How to reach me ... lukeharwood11@gmail.com | mwstudiodev@gmail.com | harwoodl@msoe.edu
-- I'm a Data Science Intern at Direct Supply
+- 👀 I’m interested in ... Machine learning, AI and data science, along with all things software development
+- 🌱 I’m currently learning ... machine learning and AI systems
+- 📫 How to reach me ... lukeharwood11@gmail.com
+- I'm a Data Scientist at Direct Supply
 
 Python 🐍| Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
 
