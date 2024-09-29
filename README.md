@@ -21,4 +21,11 @@ Python 🐍| Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
 
 ### Spring 2024
 - [x] [Portfolio Website](https://terminal.lukeharwood.dev) (as a Linux Terminal)
+
+### Fall 2024
+- [x] Zig (pt. 1) - First Project
+- [ ] Zig (pt. 2) - Data Structures
+- [ ] Zig (pt. 3) - WebAPI Framework
+
+### Spring 2025
 - [ ] [Normal Portfolio](https://lukeharwood.dev) Rewrite
