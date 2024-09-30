@@ -9,9 +9,6 @@ Python 🐍| Zig 🦎 | Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
 
 # Project Plan
 
-## Current Project
-[CourseWright](https://github.com/lukeharwood11/course-wright)
-
 ### Winter 2022/23
 - [x] pysimulate release 1.0
 - [x] Q-Learning Agent for pysimulate
@@ -24,7 +21,7 @@ Python 🐍| Zig 🦎 | Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
 
 ### Fall 2024
 - [x] Zig (pt. 1) - First Project
-- [ ] Zig (pt. 2) - Data Structures
+- [ ] Zig (pt. 2) - Data Structures (in-progress)
 - [ ] Zig (pt. 3) - WebAPI Framework
 
 ### Spring 2025
