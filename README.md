@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukeharwood11
 - 👀 I’m interested in ... Machine learning, AI and data science, along with all things software development
 - 🌱 I’m currently learning ... Zig 🦎
-- 📫 How to reach me ... lukeharwood11@gmail.com
+- 📫 How to reach me ... lukeharwood.dev@gmail.com
 - I'm a Data Scientist at Direct Supply
 
 Python 🐍| Zig 🦎 | Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
