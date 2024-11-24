@@ -24,6 +24,7 @@ Python 🐍| Zig 🦎 | Rust 🦀 | React.js | Node.js | Java | C/C++ | Kotlin
 - [x] Zig (pt. 2) - Data Structures 
 - [ ] Zig (pt. 3) - WebAPI Framework (in-progress)
 - [x] Connect 4 MLE Tutorial Repo
+- [x] MLE FastAPI Chat Application Template Repo
 - [x] [Normal Portfolio](https://lukeharwood.dev) Rewrite 
 
 ### Spring 2025
